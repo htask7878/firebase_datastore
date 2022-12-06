@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861332461893",
+    "project_id": "fir-datainsert-de06a",
+    "storage_bucket": "fir-datainsert-de06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861332461893:android:82966e0e1cd518f5e2c62c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_datastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861332461893-gm3ac5p83tmpr69orqc7av7b16udo0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITRQ7tMxlfEzKW4GquS4UrCXszyaOfKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861332461893-gm3ac5p83tmpr69orqc7av7b16udo0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
